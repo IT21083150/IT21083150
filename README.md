@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sudesh sachintha
-- 👀 I’m interested in full stack devaloping,c++,java,python
+- 👋 Hi, I’m K.M.H.S.S Bandara(Sudesh sachintha)||IT21083150
+- 👀 I’m interested in full stack devaloping JS,c++,java,python
 - 🌱 I’m currently learning SLIIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me it21083150@my.sliit.lk || sudeshsachintha2016@gmail.com
