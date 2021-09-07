@@ -1,4 +1,4 @@
-- 👋 Hi, I’m K.M.H.S.S Bandara(Sudesh sachintha)||IT21083150
+- 👋 Hi, I’m K.M.H.S.S Bandara(Sudesh sachintha) ||  IT21083150
 - 👀 I’m interested in full stack devaloping JS,c++,java,python
 - 🌱 I’m currently learning SLIIT
 - 💞️ I’m looking to collaborate on ...
